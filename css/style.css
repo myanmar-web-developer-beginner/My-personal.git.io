@@ -1,0 +1,14 @@
+body{
+   background-color: aqua; 
+    
+
+}
+.box{
+    width: 80%;
+    height: 200px;
+    background-color: wheat;
+    margin: 100px auto;
+}
+h1{
+    color: #333;
+}
